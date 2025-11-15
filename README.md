@@ -47,4 +47,6 @@ Feel free to fork the repository and submit a pull request if you have improveme
 
 ## Support
 
+Web: https://DKon.app/dev
+
 For any issues or questions, please create an issue in the repository.
